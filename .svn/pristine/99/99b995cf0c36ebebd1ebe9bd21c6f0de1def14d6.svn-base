@@ -1,0 +1,309 @@
+2014-11-08 03:19:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/uikit.gradient.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-08 03:19:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/uikit.gradient.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:29:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:31:23 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:21 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:33:49 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:34:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:34:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-09 03:34:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/js/jquery.js
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-10 17:44:28 Error: Fatal Error (1): Class 'FormHelper' not found in [/Users/steven/Documents/Sites/developdash/View/Helper/MyFormHelper.php, line 4]
+2014-11-10 17:44:28 Error: [FatalErrorException] Class 'FormHelper' not found
+Request URL: /developdash/projects/add
+Stack Trace:
+#0 /Users/steven/Documents/Sites/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'FormHelp...', '/Users/steven/D...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FormHelp...', '/Users/steven/D...', 4, Array)
+#2 /Users/steven/Documents/Sites/cakephp/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'FormHelp...', '/Users/steven/D...', 4, Array)
+#3 /Users/steven/Documents/Sites/cakephp/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-10 17:44:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /developdash/css/cake.generic.css
+Stack Trace:
+#0 /Users/steven/Documents/Sites/developdash/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-11-10 17:44:28 Error: Fatal Error (1): Class 'FormHelper' not found in [/Users/steven/Documents/Sites/developdash/View/Helper/MyFormHelper.php, line 4]
+2014-11-10 17:44:28 Error: [FatalErrorException] Class 'FormHelper' not found
+Request URL: /developdash/css/cake.generic.css
+Stack Trace:
+#0 /Users/steven/Documents/Sites/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'FormHelp...', '/Users/steven/D...', 4)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'FormHelp...', '/Users/steven/D...', 4, Array)
+#2 /Users/steven/Documents/Sites/cakephp/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'FormHelp...', '/Users/steven/D...', 4, Array)
+#3 /Users/steven/Documents/Sites/cakephp/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-11-10 20:48:55 Error: Fatal Error (1): Unsupported operand types in [/Users/steven/Documents/Sites/cakephp/lib/Cake/View/Helper/FormHelper.php, line 378]
+2014-11-10 20:48:55 Error: [FatalErrorException] Unsupported operand types
+Request URL: /developdash/projects/add
+Stack Trace:
+#0 /Users/steven/Documents/Sites/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/Users/steven/D...', 378)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/Users/steven/D...', 378, Array)
+#2 /Users/steven/Documents/Sites/cakephp/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/Users/steven/D...', 378, Array)
+#3 /Users/steven/Documents/Sites/cakephp/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

@@ -1,0 +1,10 @@
+<div class="pure-menu pure-menu-open pure-menu-horizontal" id="main_site_menu">
+	<ul id="std-menu-items">
+		<li><?php echo $this->Html->link('All Projects', array('controller' => 'projects', 'action' => 'index')); ?></li>
+		<li><a href="#">View</a>
+			<ul>
+				<li><?php echo $this->Html->link('Budgets', array('controller' => 'budgets', 'action' => 'index')); ?></li>
+			</ul>
+		</li>
+    </ul>
+</div>
